@@ -1,7 +1,7 @@
 # Machine-Learning-By-Stanford
 Machine Learning Course by Stanford on Coursera (Andrew Ng)
 
-## Programming Assignments with MATLAB
+## Programming Assignments with MATLAB   
 
   > Exercise 1 : Linear Regression  
   > Exercise 2 : Logistic Regression  
