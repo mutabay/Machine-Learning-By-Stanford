@@ -1,4 +1,12 @@
 # Machine-Learning-By-Stanford
+
+![image](https://user-images.githubusercontent.com/60510780/188178173-720df3a6-c72a-4a24-82c1-5f0b10d956fd.png)
+
+
+<hr>
+
+
+
 Machine Learning Course by Stanford on Coursera (Andrew Ng)
 
 ## Programming Assignments with MATLAB   
